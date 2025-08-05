@@ -5,7 +5,7 @@
 Script Name: api_request_script.py
 Description: Makes a GET request to an API and processes the response.
 Author: Harish Tamboli
-Date: YYYY-MM-DD
+Date: 2025-05-26
 """
 
 import requests
